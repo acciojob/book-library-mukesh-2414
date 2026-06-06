@@ -2,6 +2,9 @@
 body{
 	background-color:#f8f8f8;
 }
+.book{
+	background-color:rgb(255, 255, 255);
+}
 .book-library{
 	background-color:#ffffff;
 	text-align:center;
@@ -16,4 +19,7 @@ body{
 .price{
 	background-color:#2ecc71;
 	text-align:center;
+}
+h1{
+	background-color:#ffffff; 
 }
