@@ -6,8 +6,12 @@ body{
 	background-color:#ffffff;
 	text-align:center;
 }
+.book-title{
+	text-align:start;
+}
 .author{
 	color:#777777;
+	text-align:start;
 }
 .price{
 	background-color:#2ecc71;
